@@ -1,0 +1,16 @@
+This directory contains all the code to generate simulated data, compile
+the full and null Stan models and fit those models to simulated data.  Any
+use of the routines presented here must be acknowledged by citing:
+
+Joseph W. Houpt, Steven N. MacEachern, Mario Peruggia, James T. Townsend,
+and Trisha Van Zandt (2015).  Semiparametric Bayesian approaches to systems
+factorial technology.  Manuscript submitted to the Journal of Mathematical
+Psychology.
+
+To run the full analysis for the 3-condition capacity coefficient study
+(Study 1), simply execute the file batch.sh.  The computer is assumed to be
+a linux machine running R with all necessary libraries (see the code for
+more information).  If the code is modified for use on other systems (e.g.,
+Mac or PC), please make it available as we have made our code available.
+Use of this github repository is encouraged.
+
